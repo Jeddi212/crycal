@@ -1,0 +1,13 @@
+name: crycal
+version: 0.1.0
+
+authors:
+  - Jeddi212 <jedediahf51@gmail.com>
+
+targets:
+  crycal:
+    main: src/crycal.cr
+
+crystal: 1.5.0
+
+license: MIT
